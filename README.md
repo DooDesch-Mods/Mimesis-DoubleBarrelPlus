@@ -4,6 +4,8 @@ Infinite reserve with the normal two-round reload. Configure this shotgun indepe
 
 > 🛟 **Need help or found a bug?** Get support at [support.doodesch.de/doublebarrelplus](https://support.doodesch.de/doublebarrelplus).
 
+![DoubleBarrelPlus in MIMESIS](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-DoubleBarrelPlus/main/docs/img/header.jpg)
+
 For MIMESIS and MelonLoader 0.7.3. A separate mod for the **Double Barrel Shotgun** (item 1500). Install any combination of the six weapon mods. No MimicAPI or separate weapon-core DLL is required.
 
 ## Install
@@ -46,6 +48,12 @@ Optional tuning starts at **1.0 = native**. The primary unlimited mode is enable
 | `ShowInfinity` | `true` | Local HUD only: show infinity for unlimited ammunition, energy or protected bat durability |
 
 The native ammo label shows loaded rounds plus infinity in reserve mode, for example `1/∞` or `2/∞`. Infinite-magazine mode shows `∞`. Reload and firing inputs stay native. `SpreadMultiplier` changes the actual hit-cone width.
+
+## In game
+
+![The native Double Barrel Shotgun with its own ammunition settings.](https://raw.githubusercontent.com/DooDesch-Mods/Mimesis-DoubleBarrelPlus/main/docs/img/in-game.jpg)
+
+The native Double Barrel Shotgun with its own ammunition settings.
 
 ## Build
 
